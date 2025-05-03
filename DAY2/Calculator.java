@@ -28,6 +28,7 @@ public class Calculator {
             default:
             System.out.println("not valid sign");
         }
+        sc.close();
     }
     
 }
