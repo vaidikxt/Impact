@@ -23,5 +23,9 @@ public class loop {
             System.out.println(i%2==0?i:"");
         }
 
+        int ahhh=10;
+        int c=(ahhh++ + ++ahhh) - (++ahhh +ahhh++);
+        System.out.println(c);
+
     }
 }
