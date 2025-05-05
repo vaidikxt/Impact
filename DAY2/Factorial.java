@@ -12,7 +12,7 @@ public class Factorial {
             fac*=i;
            
         }
-        System.out.println("Factorial Of num is"+fac);
+        System.out.println("Factorial Of num is "+fac);
         sc.close();
     }
     
