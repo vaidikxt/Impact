@@ -32,6 +32,6 @@ public class amstrong {
             number=number/10;
         }
 
-        System.out.println(result==number?"amstrong"+number:"not amstrong");
+        System.out.println(result==number?"amstrong":"not amstrong");
     }
 }
