@@ -2,7 +2,7 @@ package DAY4;
 
 import java.util.Scanner;
 
-public class hello {
+public class BinarytoDecimal {
     public static void main(String[] args) {
         BinarytTodecimal();
     }
