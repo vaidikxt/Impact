@@ -20,9 +20,11 @@ public class Typecasting {
 
 
 
-         int vl=124;
+         int vl=128;
          byte vl1= (byte)vl;
 
          System.out.println(vl1);
     }
+
+    
 }
