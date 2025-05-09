@@ -1,3 +1,4 @@
+package DAY7;
 public class reverse {
     public static void main(String[] args) {
         reversearray();
